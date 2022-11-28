@@ -15,3 +15,5 @@
 **git branch branch_name** - создает ветку в git (где branch_name имя ветки)
 
 **git checkout branch_name** -переход на ветку (где branch_name имя ветки)
+
+**git branch -d branch_name** - удаляет ветку, в том числе уже слитую (где branch_namne имя ветки)
